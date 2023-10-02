@@ -172,6 +172,24 @@ padding-right: 1.96vh;
     font-size: 12px;
     font-weight: bold;
 }
+.flechacirC {
+    width: 39px;
+    height: 39px;
+   position: relative;
+   left: 220px;
+    color: white;
+    top:242px;
+    border-radius: 50%;
+    border: white solid 1px;
+   
+}
+.flecha-blanca1 {
+    position: absolute;
+    left: 11px;
+    top: 9px;
+    color: white;
+    transform: rotate(-45deg);
+}
 .E {
     left: 1050px;
     bottom: 80px;
@@ -334,5 +352,20 @@ padding: 5px;
     top: -8px; /* Posición del primer pseudo-elemento */
 }
 
-
-
+.flechacard {
+    border-radius: 50%;
+    background-color: rgb(160, 150, 150, 0.1);
+    position: absolute;
+    width: 30px;
+    height: 30px;
+left: 310px;
+z-index: 1;
+}
+.flecha-blanca {
+    position: absolute;
+    left: 8px;
+    top: 5px;
+    color: white;
+    transform: rotate(-45deg);
+    
+}
